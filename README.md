@@ -33,5 +33,4 @@ License
 HandRevive is released under the MIT License. Feel free to use, modify, and distribute this project for personal or commercial purposes.
 
 
-===============
 Together, let's make a difference and bring a new lease of life to individuals in need. Join us in the HandRevive project today!
